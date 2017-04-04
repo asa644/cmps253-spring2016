@@ -25,6 +25,6 @@ dependencies {
 
     // Use JUnit test framework
     testImplementation 'junit:junit:4.12'
-    compile group: 'com.microsoft.sqlserver', name: 'mysql-jdbc', version: '6.1.0.jre8'
+   compile group: 'com.microsoft.sqlserver', name: 'mssql-jdbc', version: '6.1.0.jre8'
 }
 
